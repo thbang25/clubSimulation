@@ -20,5 +20,7 @@ in **clubgoers** we modified startsim() and checkPause()
 
 •	There are club rules inside that patrons must enter through the entrance and exit doors. One patron accesses the entrance and exit doors at a time. The maximum number of patrons inside the club must not exceed a specified limit, Patrons must wait if the club limit is reached, or the entrance door is occupied by accessing the people counter class, The person entered method must be monitored we first need to check if the capacity has been reached before letting anyone in if the club is full we ask patrons to please wait if someone exits the club and there is availability we notify the patrons waiting and allow them in one by one according to the available capacity.
 
+in the **peopleCounter** class 
+![Screenshot (6)](https://github.com/thbang25/clubSimulation/assets/83241507/5b825267-edef-4433-8d6b-ec303c9b6a48)
 
 
