@@ -22,5 +22,3 @@ in **clubgoers** we modified startsim() and checkPause()
 
 in the **peopleCounter** class 
 ![Screenshot (6)](https://github.com/thbang25/clubSimulation/assets/83241507/5b825267-edef-4433-8d6b-ec303c9b6a48)
-
-
