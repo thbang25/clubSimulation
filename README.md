@@ -1,7 +1,8 @@
 # clubSimulation
 
 •	The start button initiates the simulation for the program to start, by pressing start you trigger a condition on command, the start flag is initially set to false but when the start button is pressed, the condition is set to true, while the pause button is set to false, and this notifies threads to start running.
-•	The pause button pauses the simulation, pressing the button triggers a condition on command, the start flag is initially set to false but when the button is pressed, the condition is set to true, which sets the start button to false, this allows the threads to be set to sleep and stop where they are on the simulation, to resume the simulation press the start button, this will wake up the threads and allow the simulation to continue.
+•	The pause button pauses the simulation, pressing the button triggers a condition on command, the start flag is initially set to false but when the button is pressed, the condition is set to true, which sets the start button to false, this allows the threads to be set to sleep and stop where they are on the simulation, to resume the simulation press the start button, this will wake up the threads and allow the simulation to continue. You are also given the option to enter your own arguments and parameters these are the number of clubgoers, the number of grid cells x and y, and the maximum number of people allowed in the club.
+
 
 in **clubSimulation** we modified
 atomic boolean variables
